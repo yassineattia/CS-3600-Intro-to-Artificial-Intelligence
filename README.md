@@ -14,3 +14,4 @@ This project covers inference and filtering in Bayesian Networks.
 
 Project 4: https://bhrolenok.github.io/teaching/cs-3600-spr2019/project4/index.html
 This project covers Machine Learning with Decision Trees.
+# CS-3600-Intro-to-Artificial-Intelligence
