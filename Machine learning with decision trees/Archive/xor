@@ -1,0 +1,167 @@
+yassines-Air:Project 4b yassineattia$ python xor.py
+Starting training at time 23:05:03.067417 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 1528, and size of test set 200
+Finished after 103 iterations at time 23:06:21.752851 with training error 0.001934 and weight change 0.000080
+Feed Forward Test correctly classified 195, incorrectly classified 5, test accuracy 0.975000
+
+Starting training at time 23:06:21.776811 with 2 inputs, 1 outputs, [] hidden layers, size of training set 800, and size of test set 200
+Finished after 400 iterations at time 23:06:26.196157 with training error 0.125539 and weight change 0.008242
+Feed Forward Test correctly classified 102, incorrectly classified 98, test accuracy 0.510000
+
+Starting training at time 23:06:26.197593 with 2 inputs, 1 outputs, [] hidden layers, size of training set 800, and size of test set 200
+Finished after 400 iterations at time 23:06:30.614332 with training error 0.125539 and weight change 0.008242
+Feed Forward Test correctly classified 102, incorrectly classified 98, test accuracy 0.510000
+
+Starting training at time 23:06:30.615718 with 2 inputs, 1 outputs, [] hidden layers, size of training set 800, and size of test set 200
+Finished after 400 iterations at time 23:06:35.050180 with training error 0.125539 and weight change 0.008242
+Feed Forward Test correctly classified 102, incorrectly classified 98, test accuracy 0.510000
+
+Starting training at time 23:06:35.051585 with 2 inputs, 1 outputs, [] hidden layers, size of training set 800, and size of test set 200
+Finished after 400 iterations at time 23:06:39.490180 with training error 0.125539 and weight change 0.008242
+Feed Forward Test correctly classified 102, incorrectly classified 98, test accuracy 0.510000
+
+Starting training at time 23:06:39.491800 with 2 inputs, 1 outputs, [] hidden layers, size of training set 800, and size of test set 200
+Finished after 400 iterations at time 23:06:44.156593 with training error 0.125539 and weight change 0.008242
+Feed Forward Test correctly classified 102, incorrectly classified 98, test accuracy 0.510000
+
+Layer 0 -> 
+
+Maximum: 0.51
+ Average: 0.51 
+Standard Deviatio: 0.0
+
+Starting training at time 23:06:44.158028 with 2 inputs, 1 outputs, [1] hidden layers, size of training set 800, and size of test set 200
+Finished after 400 iterations at time 23:06:52.405106 with training error 0.079126 and weight change 0.001374
+Feed Forward Test correctly classified 146, incorrectly classified 54, test accuracy 0.730000
+
+Starting training at time 23:06:52.407397 with 2 inputs, 1 outputs, [1] hidden layers, size of training set 800, and size of test set 200
+Finished after 400 iterations at time 23:07:00.727820 with training error 0.079139 and weight change 0.001375
+Feed Forward Test correctly classified 146, incorrectly classified 54, test accuracy 0.730000
+
+Starting training at time 23:07:00.729869 with 2 inputs, 1 outputs, [1] hidden layers, size of training set 800, and size of test set 200
+Finished after 400 iterations at time 23:07:09.086989 with training error 0.079127 and weight change 0.001374
+Feed Forward Test correctly classified 146, incorrectly classified 54, test accuracy 0.730000
+
+Starting training at time 23:07:09.089082 with 2 inputs, 1 outputs, [1] hidden layers, size of training set 800, and size of test set 200
+Finished after 400 iterations at time 23:07:17.243492 with training error 0.079235 and weight change 0.002725
+Feed Forward Test correctly classified 146, incorrectly classified 54, test accuracy 0.730000
+
+Starting training at time 23:07:17.245588 with 2 inputs, 1 outputs, [1] hidden layers, size of training set 800, and size of test set 200
+Finished after 400 iterations at time 23:07:25.309325 with training error 0.079141 and weight change 0.001376
+Feed Forward Test correctly classified 146, incorrectly classified 54, test accuracy 0.730000
+
+ Layer 1 -> 
+
+ Maximum: 0.73
+ Average: 0.73
+ Standard Deviatio: 0.0
+
+Starting training at time 23:07:25.311404 with 2 inputs, 1 outputs, [2] hidden layers, size of training set 800, and size of test set 200
+Finished after 82 iterations at time 23:07:27.932539 with training error 0.001145 and weight change 0.000078
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:07:27.935172 with 2 inputs, 1 outputs, [2] hidden layers, size of training set 800, and size of test set 200
+Finished after 98 iterations at time 23:07:31.797335 with training error 0.001015 and weight change 0.000080
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:07:31.803480 with 2 inputs, 1 outputs, [2] hidden layers, size of training set 800, and size of test set 200
+Finished after 47 iterations at time 23:07:40.255765 with training error 0.001357 and weight change 0.000079
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:07:40.267711 with 2 inputs, 1 outputs, [2] hidden layers, size of training set 800, and size of test set 200
+Finished after 61 iterations at time 23:07:47.925416 with training error 0.001142 and weight change 0.000078
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:07:47.931638 with 2 inputs, 1 outputs, [2] hidden layers, size of training set 800, and size of test set 200
+Finished after 51 iterations at time 23:07:53.819970 with training error 0.001131 and weight change 0.000078
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Layer 2 -> 
+
+Maximum: 1.0 
+Average: 1.0 
+Standard Deviatio: 0.0
+
+Starting training at time 23:07:53.831715 with 2 inputs, 1 outputs, [3] hidden layers, size of training set 800, and size of test set 200
+Finished after 77 iterations at time 23:08:03.606359 with training error 0.001182 and weight change 0.000080
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:08:03.610104 with 2 inputs, 1 outputs, [3] hidden layers, size of training set 800, and size of test set 200
+Finished after 63 iterations at time 23:08:07.093431 with training error 0.000987 and weight change 0.000079
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:08:07.096657 with 2 inputs, 1 outputs, [3] hidden layers, size of training set 800, and size of test set 200
+Finished after 48 iterations at time 23:08:10.505220 with training error 0.001340 and weight change 0.000078
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:08:10.510394 with 2 inputs, 1 outputs, [3] hidden layers, size of training set 800, and size of test set 200
+Finished after 47 iterations at time 23:08:12.733135 with training error 0.001154 and weight change 0.000079
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:08:12.759453 with 2 inputs, 1 outputs, [3] hidden layers, size of training set 800, and size of test set 200
+Finished after 64 iterations at time 23:08:15.373595 with training error 0.001324 and weight change 0.000078
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Layer 3 -> 
+
+Maximum: 1.0 
+Average: 1.0 
+Standard Deviatio: 0.0
+
+Starting training at time 23:08:15.376907 with 2 inputs, 1 outputs, [4] hidden layers, size of training set 800, and size of test set 200
+Finished after 49 iterations at time 23:08:18.195797 with training error 0.001123 and weight change 0.000077
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:08:18.201437 with 2 inputs, 1 outputs, [4] hidden layers, size of training set 800, and size of test set 200
+Finished after 53 iterations at time 23:08:21.751945 with training error 0.001110 and weight change 0.000078
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:08:21.757683 with 2 inputs, 1 outputs, [4] hidden layers, size of training set 800, and size of test set 200
+Finished after 47 iterations at time 23:08:25.958733 with training error 0.001643 and weight change 0.000077
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:08:25.965512 with 2 inputs, 1 outputs, [4] hidden layers, size of training set 800, and size of test set 200
+Finished after 45 iterations at time 23:08:28.985117 with training error 0.001227 and weight change 0.000079
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:08:28.996278 with 2 inputs, 1 outputs, [4] hidden layers, size of training set 800, and size of test set 200
+Finished after 56 iterations at time 23:08:32.707392 with training error 0.001003 and weight change 0.000079
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+ Layer 4 -> 
+
+Maximum: 1.0
+ Average: 1.0
+ Standard Deviation: 0.0
+
+Starting training at time 23:08:32.711844 with 2 inputs, 1 outputs, [5] hidden layers, size of training set 800, and size of test set 200
+Finished after 39 iterations at time 23:08:37.405010 with training error 0.001516 and weight change 0.000078
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:08:37.412302 with 2 inputs, 1 outputs, [5] hidden layers, size of training set 800, and size of test set 200
+Finished after 38 iterations at time 23:08:41.684754 with training error 0.001578 and weight change 0.000079
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:08:41.689762 with 2 inputs, 1 outputs, [5] hidden layers, size of training set 800, and size of test set 200
+Finished after 51 iterations at time 23:08:44.815172 with training error 0.001011 and weight change 0.000078
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:08:44.819513 with 2 inputs, 1 outputs, [5] hidden layers, size of training set 800, and size of test set 200
+Finished after 47 iterations at time 23:08:47.635075 with training error 0.001162 and weight change 0.000079
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+Starting training at time 23:08:47.639399 with 2 inputs, 1 outputs, [5] hidden layers, size of training set 800, and size of test set 200
+Finished after 49 iterations at time 23:08:50.556788 with training error 0.001228 and weight change 0.000078
+Feed Forward Test correctly classified 200, incorrectly classified 0, test accuracy 1.000000
+
+ Layer 5 -> 
+
+Maximum: 1.0 
+ Average: 1.0 
+ Standardd Dev: 0.0
+
+
+CONCLUSION: The standard deviation dropped to zero after in the second layer.
+
+
+
+

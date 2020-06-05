@@ -1,0 +1,67 @@
+QUESTION5
+
+lawn-128-61-58-17:Project 4b yassineattia$ python question5.py
+Starting training at time 16:57:27.195427 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 1528, and size of test set 200
+Finished after 122 iterations at time 16:59:06.425213 with training error 0.001627 and weight change 0.000080
+Feed Forward Test correctly classified 197, incorrectly classified 3, test accuracy 0.985000
+
+Question Test starting
+
+Pen Data is testing
+
+Starting training at time 16:59:06.450342 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 79 iterations at time 17:06:47.557637 with training error 0.002794 and weight change 0.000080
+Feed Forward Test correctly classified 3107, incorrectly classified 391, test accuracy 0.888222
+
+Starting training at time 17:06:48.351930 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 73 iterations at time 17:13:53.195156 with training error 0.002872 and weight change 0.000079
+Feed Forward Test correctly classified 3161, incorrectly classified 337, test accuracy 0.903659
+
+Starting training at time 17:13:53.848845 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 67 iterations at time 17:27:42.273567 with training error 0.002706 and weight change 0.000080
+Feed Forward Test correctly classified 3167, incorrectly classified 331, test accuracy 0.905374
+
+Starting training at time 17:27:42.987822 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 75 iterations at time 17:35:27.912985 with training error 0.002755 and weight change 0.000080
+Feed Forward Test correctly classified 3162, incorrectly classified 336, test accuracy 0.903945
+
+Starting training at time 17:35:28.595917 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 81 iterations at time 17:44:40.647345 with training error 0.002641 and weight change 0.000079
+Feed Forward Test correctly classified 3151, incorrectly classified 347, test accuracy 0.900800
+
+Pen Data's average is: 0.900400228702
+Pen Data's max is: 0.905374499714
+Pen Data's stad dev is: 0.00626743949962
+----------------------------------------
+
+
+Car Data is testing
+
+Starting training at time 17:44:41.360238 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 1528, and size of test set 200
+Finished after 102 iterations at time 17:46:06.470611 with training error 0.002023 and weight change 0.000080
+Feed Forward Test correctly classified 196, incorrectly classified 4, test accuracy 0.980000
+
+Starting training at time 17:46:06.496590 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 1528, and size of test set 200
+Finished after 109 iterations at time 17:47:38.661233 with training error 0.001856 and weight change 0.000080
+Feed Forward Test correctly classified 195, incorrectly classified 5, test accuracy 0.975000
+
+Starting training at time 17:47:38.686505 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 1528, and size of test set 200
+Finished after 93 iterations at time 17:48:58.409482 with training error 0.002428 and weight change 0.000080
+Feed Forward Test correctly classified 198, incorrectly classified 2, test accuracy 0.990000
+
+Starting training at time 17:48:58.438702 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 1528, and size of test set 200
+Finished after 97 iterations at time 17:50:18.010038 with training error 0.002215 and weight change 0.000080
+Feed Forward Test correctly classified 196, incorrectly classified 4, test accuracy 0.980000
+
+Starting training at time 17:50:18.040639 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 1528, and size of test set 200
+Finished after 101 iterations at time 17:51:38.825393 with training error 0.002142 and weight change 0.000080
+Feed Forward Test correctly classified 197, incorrectly classified 3, test accuracy 0.985000
+
+Car Data's average is: 0.982
+Car Data's max is: 0.99
+Car Data's stad dev is: 0.00509901951359
+----------------------------------------
+
+
+
+
